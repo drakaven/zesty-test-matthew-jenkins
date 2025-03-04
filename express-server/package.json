@@ -1,0 +1,19 @@
+{
+  "name": "zesty-express",
+  "version": "1.0.0",
+  "description": "api for zesty properties",
+  "main": "app/index.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app/index.mjs"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "errorhandler": "^1.5.1",
+    "express": "^4.21.2",
+    "postgres": "^3.4.5",
+    "sharp": "^0.33.5"
+  }
+}
