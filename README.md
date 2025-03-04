@@ -6,7 +6,7 @@ Take come coding challenge for Zesty.ai
 
 Start and seed the database
 ```
-docker compose -f './engineering-test-fullstack-with-qa/docker-compose.yml' up -d
+docker compose -f './engineering-test-db-setup/docker-compose.yml' up -d
 ```
 
 Start the application server
